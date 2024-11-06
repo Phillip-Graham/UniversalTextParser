@@ -1,6 +1,6 @@
 ﻿namespace UniversalTextParser;
 
-public class Class1
+public class ParserEngine
 {
 
 }

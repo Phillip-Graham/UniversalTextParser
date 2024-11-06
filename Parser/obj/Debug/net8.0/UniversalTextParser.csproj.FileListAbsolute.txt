@@ -1,0 +1,12 @@
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\bin\Debug\net8.0\UniversalTextParser.deps.json
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\bin\Debug\net8.0\UniversalTextParser.dll
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\bin\Debug\net8.0\UniversalTextParser.pdb
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\UniversalTextParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\UniversalTextParser.AssemblyInfoInputs.cache
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\UniversalTextParser.AssemblyInfo.cs
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\UniversalTextParser.csproj.CoreCompileInputs.cache
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\UniversalTextParser.sourcelink.json
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\UniversalTextParser.dll
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\refint\UniversalTextParser.dll
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\UniversalTextParser.pdb
+C:\Users\7403p\CodeProjects\UniversalTextParser\Parser\obj\Debug\net8.0\ref\UniversalTextParser.dll
